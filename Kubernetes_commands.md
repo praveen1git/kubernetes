@@ -1,4 +1,5 @@
 # Common kubernetes Commands
+modifyed by dev1
 
 kubectl version   
 kubectl version --short   
