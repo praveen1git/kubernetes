@@ -1,5 +1,5 @@
 # Kubernetes Components
-
+chachanges done by dev2
 ### Master Components  
   kube-apiserver  
   kube-scheduler  
